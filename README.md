@@ -74,18 +74,6 @@
 ---
 
 
-## 📁 Open Source Projects
-
-
-| Project                                      | Description                                                  | Tech Stack                     |
-| -------------------------------------------- | ------------------------------------------------------------ | ------------------------------ |
-| `https://github.com/wjs-tech/wjs-vue3-admin` | Enterprise-level admin system based on Vue3 + Vite + TypeScript + Element-Plus | Vue3, TypeScript, Element Plus |
-| `https://github.com/wjs-tech/wjs-nest`       | Enterprise permission management backend built with NestJS + TypeORM + MySQL + Redis | NestJS, TypeORM, MySQL         |
-
-
----
-
-
 ## 🤖 AI Workflow Exploration
 
 
